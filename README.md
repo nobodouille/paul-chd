@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello there, this is a README created just to get the github student plan benefits, act like its interesting (please)
 
 <!--
 **paul-chd/paul-chd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
